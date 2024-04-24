@@ -1,0 +1,4 @@
+commande upload
+gsutil -m rsync -r C:\Users\User\OneDrive\WebstormProjects\ats-showcases-55labs\gtm-ga4-ats-framework gs://ats-showcases-55labs/gtm-ga4-ats-framework
+
+https://ats-showcases.55labs.com/gtm-ga4-ats-framework/index.html
